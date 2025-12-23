@@ -22,13 +22,18 @@ The project addresses the evolution of story-driven games:
   - Cross-platform community for one-click sharing, downloading creations, and discussions.
 - **Market Opportunity**: Text-based AI games are rising, especially among creative players, story enthusiasts, tech fans, and casual users. Global games market: ~USD 238B in 2024, projected 268–282B in 2025.
 - **Business Model**: Revenue via ads, subscriptions (ad-free, VIP), and in-game purchases (e.g., revival cards).
+Ensure files are organized as follows:<img width="1920" height="1080" alt="Technical Architecture" src="https://github.com/user-attachments/assets/ed701394-e974-4e40-b8a3-3e31ca17a289" />
+<img width="1920" height="1080" alt="Technical -System Architecture" src="https://github.com/user-attachments/assets/e333b615-6adf-437c-994f-a1ffc530341d" />
+<img width="1920" height="1080" alt="Game Features" src="https://github.com/user-attachments/assets/c26f5a3b-97fe-45c0-8e83-016be3d1c6d5" />
+
 
 This project demonstrates OOP principles in Java (encapsulation, inheritance, polymorphism) applied to game logic, AI integration, and community backend.
 
 The project was developed using NVIDIA RTX 5070 Ti for GPU-accelerated AI computations and MacBook Air M2 for general development and testing.
 
 ## File Structure
-Ensure files are organized as follows:
+
+
 - `algo/`: Algorithm-side source code (e.g., AI model integration).
 - `backend/`: Backend source code (e.g., Spring Boot logic).
 - `frontend/`: Frontend source code (e.g., Vue.js interfaces).
