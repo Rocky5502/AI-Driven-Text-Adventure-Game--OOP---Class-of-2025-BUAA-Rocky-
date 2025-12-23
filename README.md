@@ -100,4 +100,5 @@ I also thank my labmate Kerney and others for their valuable help during impleme
 Finally, I appreciate all the contributions that made this project possible.
 
 ## Contact
-Rocky (文浩) –sahchandan98@buaa.edu.cn
+- Rocky (文浩) –sahchandan98@buaa.edu.cn
+- My LinkedIn: https://www.linkedin.com/in/chandan-sah-rocky-%E6%96%87%E6%B5%A9-5803bb1b4/
