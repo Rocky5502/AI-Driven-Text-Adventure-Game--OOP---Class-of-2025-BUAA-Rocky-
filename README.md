@@ -80,7 +80,7 @@ Used Intermediate COCOMO model:
 - Semi-Detached Mode (docs): a=3.0, b=1.12, c=2.5, d=0.35
 
 ## Getting Started
-1. Clone the repo: ``
+1. Clone the repo: https://github.com/Rocky5502/AI-Driven-Text-Adventure-Game--OOP---Class-of-2025-BUAA-Rocky-.git.
 2. Install dependencies (Java, Node.js, etc.).
 3. Run backend: `mvn spring-boot:run` (or similar).
 4. Run frontend: `npm run serve`.
